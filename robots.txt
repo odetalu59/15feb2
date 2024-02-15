@@ -1,0 +1,25 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://ftp.intuitivecomputing.jhu.edu/superjp/sitemap.xml
+Sitemap: https://ftp.intuitivecomputing.jhu.edu/gilajp/sitemap.xml
+Sitemap: https://ftp.intuitivecomputing.jhu.edu/gojekpot/sitemap.xml
+Sitemap: https://ftp.intuitivecomputing.jhu.edu/winstrike69/sitemap.xml
+Sitemap: https://ftp.intuitivecomputing.jhu.edu/jagoan86/sitemap.xml
+Sitemap: https://ftp.intuitivecomputing.jhu.edu/kaptenjackpot/sitemap.xml
+Sitemap: https://ftp.intuitivecomputing.jhu.edu/boosterjp/sitemap.xml
+Sitemap: https://ftp.intuitivecomputing.jhu.edu/kerajaanslot/sitemap.xml
+Sitemap: https://ftp.intuitivecomputing.jhu.edu/pakong86/sitemap.xml
+Sitemap: https://ftp.intuitivecomputing.jhu.edu/viral88/sitemap.xml
+Sitemap: https://ftp.intuitivecomputing.jhu.edu/clan4d/sitemap.xml
+Sitemap: https://ftp.intuitivecomputing.jhu.edu/dinamit4d/sitemap.xml
+Sitemap: https://ftp.intuitivecomputing.jhu.edu/elang212/sitemap.xml
+Sitemap: https://ftp.intuitivecomputing.jhu.edu/gori77/sitemap.xml
+Sitemap: https://ftp.intuitivecomputing.jhu.edu/viral4d/sitemap.xml
+Sitemap: https://ftp.intuitivecomputing.jhu.edu/playground88/sitemap.xml
